@@ -1,5 +1,6 @@
 {
     "name": "withreach/reach-client-php",
+    "version": "0.0.8",
     "description": "",
     "keywords": [
         "swagger",
